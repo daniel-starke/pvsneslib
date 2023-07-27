@@ -8,6 +8,7 @@ on:
   push:
     branches:
       - "develop"
+      - "issue-224-test"
 
       # ------------------------------------ #
       # Set O.S matrix                       #
